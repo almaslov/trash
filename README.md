@@ -6,6 +6,7 @@ This version is forked from [original repository][ref] and is expected to be wri
 
 ## Project status
 Current release version is 0.1. This release is focused on implementing MPV. Minimalistic console client with limited gameplay and hotseat multiplayer introduced.
+![gameplay screenshot](https://raw.githubusercontent.com/almaslov/trash/master/screenshot.png)
 
 Game mechanics:
  - [x] Basic player actions
